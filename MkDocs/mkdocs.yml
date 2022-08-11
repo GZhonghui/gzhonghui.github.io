@@ -1,0 +1,13 @@
+site_name: Zhonghui
+site_url: https://www.gzher.com/
+
+plugins: []
+
+nav:
+    - Home: index.md
+    - Wiki: http://wiki.gzher.com
+    - Github: https://github.com/GZhonghui
+    - Mail: mailto:mail@gzher.com
+
+extra_css:
+    - css/extra.css
