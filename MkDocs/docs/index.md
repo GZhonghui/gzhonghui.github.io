@@ -19,4 +19,4 @@
 - The 2020 ICPC Asia Nanjing Regional Contest, **Silver Medal**
 - Contemporary Undergraduate Mathematical Contest in Modeling, **Second Prize**
 
-## Paper
+## Publication
