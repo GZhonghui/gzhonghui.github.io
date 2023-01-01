@@ -5,4 +5,5 @@
 把编译好的结果放到/docs/下面
 注意/docs/CNAME不是生成的，不要删除
 清理生成的/MkDocs/site/
+git status -s
 PUSH!
