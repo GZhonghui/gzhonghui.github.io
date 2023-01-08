@@ -6,7 +6,8 @@ plugins: []
 nav:
     - Home: index.md
     - Wiki: https://wiki.gzher.com
-    - Library: https://wiki.gzher.com/Library/Index.html
+    - Library: https://lib.gzher.com
+    - Webdav: https://dav.gzher.com
     - Github: https://github.com/GZhonghui
     - Mail: mailto:mail@gzher.com
 
