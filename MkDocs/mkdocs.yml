@@ -10,6 +10,8 @@ nav:
     - Webdav: https://dav.gzher.com
     - Github: https://github.com/GZhonghui
     - Mail: mailto:mail@gzher.com
+    - Dropbox: https://www.dropbox.com
+    - Notion: https://www.notion.so
 
 extra_css:
     - css/extra.css
